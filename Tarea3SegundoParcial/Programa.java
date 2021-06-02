@@ -13,7 +13,7 @@ public class Programa
         int fil,col;
         Menu menu;
         Scanner Num= new Scanner(System.in);
-        System.out.println("Acontinuacion ingrese ");
+        System.out.println("Acontinuacion ingrese una matriz cuadrada por favor.");
         System.out.println("Ingresar el numero de filas: ");
         fil=Integer.parseInt(Num.nextLine());
         System.out.println("Ingresar el numero de columnas: ");
