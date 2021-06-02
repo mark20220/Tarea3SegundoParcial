@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Matriz
+comment0.text=\r\n\ constructor\ nos\ permita\ definir\ el\ tama\u00F1o\ de\ la\ matriz\r\n\ metodo\ el\ recorrido\ de\ caracol\ en\ la\ matriz.\r\n\ metoo\ Diagonal\ principal\ y\ secundaria\ en\ la\ matriz.\r\n\ metodo\ imprimir\ la\ matriz.\r\n\ \r\n\ @author\ Marcelo\ Oscar\ Cardozo\ Cadima\ \r\n\ @version\ 01/06/2021\r\n
+comment1.params=fil\ col
+comment1.target=Matriz(int,\ int)
+comment2.params=
+comment2.target=void\ RecoridoCaracol()
+comment3.params=
+comment3.target=void\ MostrarMatriz()
+comment4.params=
+comment4.target=void\ Diagonal()
+comment5.params=
+comment5.target=void\ MostrarDiagonal()
+numComments=6

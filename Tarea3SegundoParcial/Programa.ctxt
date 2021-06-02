@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Programa
+comment0.text=\r\n\ Es\ una\ interfaz\ con\ el\ usuario\ usando\ la\ terminal\r\n\ \r\n\ @author\ Marcelo\ Oscar\ Cardozo\ Cadima\ \r\n\ @version\ 01/06/2021\r\n
+comment1.params=a
+comment1.target=void\ main(java.lang.String[])
+numComments=2
